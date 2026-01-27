@@ -51,7 +51,7 @@ plt.legend()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![WhatsApp Image 2026-01-27 at 9 32 07 AM](https://github.com/user-attachments/assets/2c9d3a46-3dd6-4b4d-a27d-d2ff7a0bf1ca)
 
 
 ## Result:
